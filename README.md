@@ -4,25 +4,25 @@ The purpose of this project is to develop Windows keyboard which maps Hebrew let
 
 |Key   |Normal|Shift |AltGr |
 |----- |------|------|------|
-|x|א||ﬡ|
-|b|ב|בּ||
-|g|ג|||
-|d|ד||ﬢ|
-|h|ה|ח|ﬣ|
-|v|ו|||
-|y*|ז|||
-|t|ט|||
-|j|י|||
-|k|כ|ך|ﬤ|
-|l|ל||ﬥ|
-|m|מ|ם|ﬦ|
-|n|נ|ן||
-|s|ס||ש|
+|x|א alef||wide ﬡ|
+|b|ב vet (bet)|||
+|g|ג gimmel|||
+|d|ד dalet||wide ﬢ|
+|h|ה he|ח chet|wide ﬣ|
+|v|ו waw|||
+|y*|ז zajin|||
+|t|ט tet|||
+|j|י yod|||
+|k|כ chaf (kaf)|ך final|wide ﬤ|
+|l|ל lamed||wide ﬥ|
+|m|מ mem|ם final|wide ﬦ|
+|n|נ nun|ן final||
+|s|ס samech||ש sin (without dot)|
 |z*|ע|||
-|p|פ|ף||
-|c|צ|ץ||
-|q|ק|||
-|r|ר||ﬧ|
-|w|שׂ|שׁ||
-|f|ת||ﬨ|
+|p|פ fe(pe)|ף final||
+|c|צ tsade|ץ final||
+|q|ק qof|||
+|r|ר resh||wide ﬧ|
+|w|שׂ sin|שׁ shin||
+|f|ת taf||wide ﬨ|
 
