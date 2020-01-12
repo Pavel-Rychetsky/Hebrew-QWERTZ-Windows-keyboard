@@ -73,11 +73,11 @@ To type nikkud, the vowels - typed after previous consonant - are mapped followi
 
 |Key   |Normal|Shift |AltGr (Ctrl+Alt)|Shift+AltGr (Ctrl+Alt)|
 |-----|-------|------|------|------|
-|a| ◌ַ  patah| ◌ָ kamats| ◌ֲ hataf patah| ◌ֳ hataf kamats|
-|e| ◌ֶ segol | ◌ֵ tsere| ◌ֱ hataf segol|  |
-|i| ◌ִ hiriq | י◌ִ hiriq yod|  |  |
-|o| ◌ֹ holam | וֹ◌ holam male| ◌ׇ kamats hatuf| ◌ֺ holam haser for waw\*|
-|u| ◌ֻ kubuts | וּ◌ shuruk|  |  |
+|a| ◌ַ &nbsp;patah| ◌ָ &nbsp;kamats| ◌ֲ &nbsp;hataf patah| ◌ֳ &nbsp;hataf kamats|
+|e| ◌ֶ &nbsp;segol | ◌ֵ &nbsp;tsere| ◌ֱ &nbsp;hataf segol|  |
+|i| ◌ִ &nbsp;hiriq | י◌ִ &nbsp;hiriq yod|  |  |
+|o| ◌ֹ &nbsp;holam | וֹ◌ &nbsp;holam male| ◌ׇ &nbsp;kamats hatuf| ◌ֺ &nbsp;holam haser for waw\*|
+|u| ◌ֻ &nbsp;kubuts | וּ◌ &nbsp;shuruk|  |  |
 \* Compare וֹ (waw with holam) and וֺ (waw with holam haser).
 
 ### Sheva
