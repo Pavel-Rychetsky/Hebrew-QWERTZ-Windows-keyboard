@@ -78,6 +78,7 @@ To type nikkud, the vowels - typed after previous consonant - are mapped followi
 |i| ◌ִ &nbsp;hiriq | י◌ִ &nbsp;hiriq yod|  |  |
 |o| ◌ֹ &nbsp;holam | וֹ◌ &nbsp;holam male| ◌ׇ &nbsp;kamats hatuf| ◌ֺ &nbsp;holam haser for waw\*|
 |u| ◌ֻ &nbsp;kubuts | וּ◌ &nbsp;shuruk|  |  |
+
 \* Compare וֹ (waw with holam) and וֺ (waw with holam haser).
 
 ### Sheva
