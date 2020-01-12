@@ -1,21 +1,25 @@
 # Hebrew-QWERTZ-Windows-keyboard
+
 The purpose of this project is to develop Windows keyboard which maps Hebrew letters according their phonetic or visual similarity with English (ASCII) letters.
+
 ## Letters
+
 22 Hebrew letters are mapped to 20 keys (because of a, e, i, o, and u are reserved for vowels - see below) following way:
+
 - according phonetic similarity
-	- g, d, h, z (QWERTZ), t, j, l, m, n, s, c, q, r
+    - g, d, h, z (QWERTZ), t, j, l, m, n, s, c, q, r
 - according phonetic similarity of letter with dagesh
-	- b, k, p
+    - b, k, p
 - according visual similarity
-	- x for aleph
-	- y (QWERTZ) for ayin
-	- w/W for sin/shin
+    - x for aleph
+    - y (QWERTZ) for ayin
+    - w/W for sin/shin
 - specialities
-	- v for waw as "w" is  pronounced close to "v" in some languages
-	- T for tet (tav is used more frequently)
-	- H for chet
-	- AltGr (Ctrl+Alt)+s for sin *without* dot
-	- f is not used
+    - v for waw as "w" is  pronounced close to "v" in some languages
+    - T for tet (tav is used more frequently)
+    - H for chet
+    - AltGr (Ctrl+Alt)+s for sin *without* dot
+    - f is not used
 - the final forms are written with Shift
 - the wide forms are written with AltGr (Ctrl+Alt) including final mem
 
@@ -46,14 +50,19 @@ The purpose of this project is to develop Windows keyboard which maps Hebrew let
 (*) Y and Z in QWERTZ layouts (e.g. Czech, German etc.) See Hebrew-QWERTY-Windows-keyboard project if you are using QWERTY as you native keyboard.
 
 ### Letters with dagesh / mappiq
+
 Because of many modern Hebrew fonts contain special characters for letters with dagesh or mappiq I've decided to implement dagesh as dead key mapped to "." (period)
+
 - e.g. "." followed by b results in בּ
 - if neither dagesh nor mappiq is allowed with letter (ayin, chet, final forms instead of pe and kaf) the result is same letter as without dead key; such behaviour is not implemented for wide forms
 - "." followed by "." result in separate dagesh (mappiq) - useful in case the font doesn't include letter with dagesh and there is necessary to composite final character
-	- such way the dagesh is typed *after* the letter
-	- e.g. b followed by two "." results in בּ (looks same as above, but still constructed from two characters)
+    - such way the dagesh is typed *after* the letter
+    - e.g. b followed by two "." results in בּ (looks same as above, but still constructed from two characters)
+
 ### Composite sin/shin
+
 If font doesn't contain glyph for sin/shin with dot (very rare) or if you just want to type the sin/shin without dot, you can use
+
 - Shift + s to type ש
 - AltGr (Ctrl+Alt) + s to type "  ׂ " - sin dot
 - Shift + AltGr (Ctrl+Alt) + s to type " ׁ  " - shin dot
@@ -91,7 +100,7 @@ The sheva is mapped to ";" (semicolon). The semicolon itself is mapped to AltGr+
 ## Punctuation, special accents
 
 I've tried to by compatible with SIL keyboard (https://www.sbl-site.org/Fonts/BiblicalHebrewSILManual.pdf) if possible.
-Differences are marked with (*)
+Differences are marked with (*).
 
 |Key   |Normal|Shift |AltGr (Ctrl+Alt)|Shift+AltGr (Ctrl+Alt)|
 |-----|-------|------|------|------|
@@ -142,4 +151,3 @@ Differences are marked with (*)
 | , | , | < | « guillemets left| ◌̇ &nbsp;masora dot above *0307*|
 | . | ּ &nbsp;dagesh/mappiq dead key| > | » guillemets right| ◌̈ &nbsp;thousands *0308*|
 | / | / | ? | ׳ geresh (punctuation) *05f3*|  |
-
