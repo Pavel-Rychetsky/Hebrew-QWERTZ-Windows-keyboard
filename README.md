@@ -136,11 +136,11 @@ Differences are marked with (*).
 | f |  |  |  | ◦ (\*)white bullet *25e6*|
 | g | ג gimel|  |  | • bullet 2022|
 | h | ה he| ח het| ﬣ wide he(\*) | ◌̊ &nbsp;ring above *030a*|
-| j | י yod|  |  | ̶  (\*)long stroke *0336*|
+| j | י yod|  |  | ̶  (\*) long stroke *0336*|
 | k | כ chaf/kaf| ך final chaf/kaf| ﬤ wide chaf/kaf|  |
 | l | ל lamed|  | ﬥ wide lamed|  |
 | ; |  sheva| ״ gershayim (punctuation) *05f4*| ; semicolon dead key| ׃ sof pasuq *05c3*|
-| ' | ’ right single quotation *2019*| ” right double quotation *201d*| ̣  punctum *0323*| אׄ upper dot *05c4*|
+| ' | ’ right single quotation *2019*| ” right double quotation *201d*| ̣ &nbsp;punctum *0323*| אׄ upper dot *05c4*|
 | y | ע ayin|  | # number sign|  |
 | x | א aleph|  | ﬡ wide aleph|  |
 | c | צ tsade| ץ final tsade| & ampersand |  |
