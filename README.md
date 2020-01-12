@@ -7,7 +7,7 @@ The purpose of this project is to develop Windows keyboard which maps Hebrew let
 - according phonetic similarity of letter with dagesh
 	- b, k, p
 - according visual similarity
-	- x for alef
+	- x for aleph
 	- y (QWERTZ) for ayin
 	- w/W for sin/shin
 - specialities
@@ -21,7 +21,7 @@ The purpose of this project is to develop Windows keyboard which maps Hebrew let
 
 |Key   |Normal|Shift |AltGr (Ctrl+Alt)|
 |----- |------|------|------|
-|x|א alef||wide ﬡ|
+|x|א aleph||wide ﬡ|
 |b|ב vet/bet|||
 |g|ג gimmel|||
 |d|ד dalet||wide ﬢ|
@@ -59,22 +59,26 @@ If font doesn't contain glyph for sin/shin with dot (very rare) or if you just w
 - Shift + AltGr (Ctrl+Alt) + s to type " ׁ  " - shin dot
 
 so either
+
 - ש (Shift + s) followed by AltGr (Ctrl+Alt) + s results in שׂ as composite
 - ש (Shift + s) followed by Shift + AltGr (Ctrl+Alt) + s results in שׁ as composite
 
 or (more simply by just one key covering both ש and proper dot)
+
 - AltGr (Ctrl+Alt) + w to type שׂ as composite
 - Shift + AltGr (Ctrl+Alt) + w to type שׁ as composite
+
 ## Vowels
-To type nikkud, the vowels - typed after previous consonant - are mapped following way (the alef is used just a pattern, same way the waw for holam haser):
+To type nikkud, the vowels - typed after previous consonant - are mapped following way (the aleph is used just a pattern, same way the waw for holam haser):
 
 |Key   |Normal|Shift |AltGr (Ctrl+Alt)|Shift+AltGr (Ctrl+Alt)|
 |-----|-------|------|------|------|
-|a| אַ patah| אָ kamats| אֲ hataf patah| אֳ hataf kamats|
-|e| אֶ segol | אֵ tsere| אֱ hataf segol|  |
-|i| אִ hiriq | אִי hiriq yod|  |  |
-|o| אֹ holam | אוֹ holam male| אׇ kamats hatuf| וֺ holam haser for waw|
-|u| אֻ kubuts | אוּ shuruk|  |  |
+|a| ◌ַ patah| ◌ָ kamats| ◌ֲ hataf patah| ◌ֳ hataf kamats|
+|e| ◌ֶ segol | ◌ֵ tsere| ◌ֱ hataf segol|  |
+|i| ◌ִ hiriq | י◌ִ hiriq yod|  |  |
+|o| ◌ֹ holam | וֹ◌ holam male| ◌ׇ kamats hatuf| ◌ֺ holam haser for waw\*|
+|u| ◌ֻ kubuts | וּ◌ shuruk|  |  |
+\* Compare וֹ (waw with holam) and וֺ (waw with holam haser).
 
 ### Sheva
 The sheva is mapped to ";" (semicolon). The semicolon itself is mapped to AltGr+; (Ctrl+Alt+;) as dead key. The key combination followed by itself results in colon (:), followed by anything else results in semicolon (;).
@@ -83,7 +87,7 @@ The sheva is mapped to ";" (semicolon). The semicolon itself is mapped to AltGr+
 ## Punctuation, special accents
 I've tried to by compatible with SIL keyboard (https://www.sbl-site.org/Fonts/BiblicalHebrewSILManual.pdf) if possible
 - differences are marked with (*)
-- the alef is used just a pattern (same way the waw for holam haser)
+- the aleph is used just a pattern (same way the waw for holam haser)
 
 |Key   |Normal|Shift |AltGr (Ctrl+Alt)|Shift+AltGr (Ctrl+Alt)|
 |-----|-------|------|------|------|
