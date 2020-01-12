@@ -73,7 +73,7 @@ To type nikkud, the vowels - typed after previous consonant - are mapped followi
 
 |Key   |Normal|Shift |AltGr (Ctrl+Alt)|Shift+AltGr (Ctrl+Alt)|
 |-----|-------|------|------|------|
-|a| ◌ַ patah| ◌ָ kamats| ◌ֲ hataf patah| ◌ֳ hataf kamats|
+|a| ◌ַ \ patah| ◌ָ kamats| ◌ֲ hataf patah| ◌ֳ hataf kamats|
 |e| ◌ֶ segol | ◌ֵ tsere| ◌ֱ hataf segol|  |
 |i| ◌ִ hiriq | י◌ִ hiriq yod|  |  |
 |o| ◌ֹ holam | וֹ◌ holam male| ◌ׇ kamats hatuf| ◌ֺ holam haser for waw\*|
