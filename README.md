@@ -92,7 +92,7 @@ or (more simply by just one key covering both ש and proper dot)
 To type nikkud, the vowels - typed after previous consonant - are mapped following way:
 
 |Key   |Normal|Shift |AltGr (Ctrl+Alt)|Shift+AltGr (Ctrl+Alt)|
-|-----|-------|------|------|------|
+|:-----|:-------|:------|:------|:------|
 |a| ◌ַ &nbsp;patah| ◌ָ &nbsp;kamats| ◌ֲ &nbsp;hataf patah| ◌ֳ &nbsp;hataf kamats|
 |e| ◌ֶ &nbsp;segol | ◌ֵ &nbsp;tsere| ◌ֱ &nbsp;hataf segol|  |
 |i| ◌ִ &nbsp;hiriq | י◌ִ &nbsp;hiriq yod|  |  |
@@ -170,10 +170,10 @@ Differences are marked with (\*). *4-char* string in italic is Unicode code of c
 | . | ּ &nbsp;dagesh/mappiq dead key| > | » guillemets right| ◌̈ &nbsp;thousands *0308*|
 | / | / | ? | ׳ geresh (punctuation) *05f3*|  |
 
-There are alternatives based on dead key "." (i.e. same for dagesh) again
+There are alternatives based on dead key "." (i.e. same as for dagesh) again
 
 |"." followed by|result|
-|-----|-----|
+|:-----|:-----|
 |:| ׃ sof pasuq *05c3*|
 |o| ◌ dotted circle *25cc*|
 |"<" (Shift+,)| ◌֫ &nbsp;ole *05ab* which can be used as stress marker|
