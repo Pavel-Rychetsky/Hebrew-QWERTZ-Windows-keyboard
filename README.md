@@ -34,7 +34,7 @@ The purpose of this project is to develop Windows keyboard which maps Hebrew let
 - the wide forms are written with AltGr (Ctrl+Alt) including final mem
 
 |Key   |Normal|Shift |AltGr (Ctrl+Alt)|
-|----- |------|------|------|
+|:-----|:------|:------|:------|
 |x|א aleph||wide ﬡ|
 |b|ב vet/bet|||
 |g|ג gimmel|||
@@ -101,10 +101,10 @@ To type nikkud, the vowels - typed after previous consonant - are mapped followi
 
 \* Compare וֹ (waw with holam) and וֺ (waw with holam haser).
 
-Because of hataf (composite sheva) vowels are often used, there are alternative ways based on dead key ".", i.e. same for dagesh
+Because of hataf (composite sheva) vowels are often used, there are alternative ways based on dead key "." (i.e. same as for dagesh)
 
 |"." followed by|result|
-|-----|-----|
+|:-----|:-----|
 |a| ◌ֳ &nbsp;hataf patah|
 |A (Shift+a)| ◌ֳ &nbsp;hataf kamats|
 |e| ◌ֱ &nbsp;hataf segol|
@@ -118,10 +118,10 @@ The sheva is mapped to ";" (semicolon). The semicolon itself is mapped to AltGr+
 ## Punctuation, special accents
 
 I've tried to by compatible with [SIL keyboard](https://www.sbl-site.org/Fonts/BiblicalHebrewSILManual.pdf) if possible.
-Differences are marked with (*).
+Differences are marked with (\*). *4-char* string in italic is Unicode code of character/symbol.
 
 |Key   |Normal|Shift |AltGr (Ctrl+Alt)|Shift+AltGr (Ctrl+Alt)|
-|-----|-------|------|------|------|
+|:-----|:-------|:------|:------|:------|
 | \` | \` | ₪ sheqel *20aa*| $ dollar| ~ tilde|
 | 1 | 1 | ! | ◌ֽ &nbsp;meteg *05bd*| ◌֗ &nbsp;revia *0597*|
 | 2 | 2 | ◌֘ &nbsp;zarqa *0598*| ◌֢ &nbsp;atnah hafukh *05a2*| ◌֮ &nbsp;zinor *05ae*|
